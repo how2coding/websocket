@@ -1,0 +1,5 @@
+com\tupinamba\springbootwebsocket\SpringBootWebsocketApplication.class
+com\tupinamba\springbootwebsocket\controller\ChatController.class
+com\tupinamba\springbootwebsocket\config\WebSocketConfig.class
+com\tupinamba\springbootwebsocket\model\ChatMessage$MessageType.class
+com\tupinamba\springbootwebsocket\model\ChatMessage.class
